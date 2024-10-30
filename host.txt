@@ -1,0 +1,6 @@
+ruta                            ip              dominio
+paginas/ejemplo.html            192.168.1.10    www.ejemplo.com
+paginas/contacto.html           192.168.1.11    www.ejemplo.com/contacto
+paginas/wikipedia.html          192.168.1.12    www.wikipedia.org
+paginas/google.html             192.168.1.13    www.google.com
+paginas/articulo.html           192.168.1.14    www.otraweb.com/articulo
